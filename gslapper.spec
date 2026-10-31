@@ -3,7 +3,7 @@ Version:	1.5.3
 Release:        1
 Summary:	A wallpaper utility that handles static images and videos
 License:	GPL-3.0-only
-Group:		System/Backgrounds
+Group:		Window Manager/Wayland Utilities
 URL:		https://github.com/Nomadcxx/gSlapper
 Source0:	https://github.com/Nomadcxx/gSlapper/archive/refs/tags/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 

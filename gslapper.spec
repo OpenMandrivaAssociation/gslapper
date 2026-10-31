@@ -1,9 +1,10 @@
 Name:		gslapper
-Version:	1.5.2
+Version:	1.5.3
 Release:        1
 Summary:	A wallpaper utility that handles static images and videos
 License:	GPL-3.0-only
-URL:	https://github.com/Nomadcxx/gSlapper
+Group:		System/Backgrounds
+URL:		https://github.com/Nomadcxx/gSlapper
 Source0:	https://github.com/Nomadcxx/gSlapper/archive/refs/tags/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 
 BuildRequires:  meson

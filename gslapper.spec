@@ -1,5 +1,5 @@
 Name:		gslapper
-Version:	1.5.3
+Version:	1.5.4
 Release:        1
 Summary:	A wallpaper utility that handles static images and videos
 License:	GPL-3.0-only
